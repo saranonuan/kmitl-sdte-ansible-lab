@@ -1,3 +1,4 @@
+version: "3.3"
 services:
   host01:
     image: rastasheep/ubuntu-sshd:18.04
